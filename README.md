@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-Creating a weather app, using javascript, css, openweather api.
-=======
 # Weather App
 
 ## Overview
@@ -85,4 +82,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Acknowledgments
 - [OpenWeatherMap](https://openweathermap.org) for providing the weather API.
 - Weather icons sourced from [source] (replace with actual source if applicable).
->>>>>>> bd8b208 (Updated images, finished index.js, updatd readme.)
