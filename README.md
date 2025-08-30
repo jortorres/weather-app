@@ -81,4 +81,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Acknowledgments
 - [OpenWeatherMap](https://openweathermap.org) for providing the weather API.
-- Weather icons sourced from [source] (replace with actual source if applicable).
+- Weather icons sourced from https://www.flaticon.com/.
