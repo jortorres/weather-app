@@ -3,6 +3,10 @@
 ## Overview
 This is a simple web-based weather application that fetches and displays current weather data for a specified city using the OpenWeatherMap API. Users can input a city name, and the app shows the temperature (in Celsius), weather description, humidity, wind speed, and a corresponding weather icon. The app features a responsive design with fade-in animations and error handling for invalid city names.
 
+<img width="558" height="713" alt="Screenshot 2025-08-30 at 10 37 19 AM" src="https://github.com/user-attachments/assets/6055c746-1c98-4725-84e5-9b1c4fe7da2a" />
+
+
+
 ## Features
 - Search for weather by city name
 - Displays temperature (°C), weather description, humidity (%), and wind speed (km/h)
